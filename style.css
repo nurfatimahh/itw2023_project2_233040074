@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 8rem;
+    background-color: rgb(171, 203, 244);
+}
+#about{
+    background-color: rgb(130, 158, 235);
+}
+#gallery{
+    background-color: rgb(130, 158, 235);
+}
+#contact {
+    background-color: rgb(171, 203, 244);
+}
+section {
+    padding-top: 5rem;
+}
+#hobby {
+    background-color:  rgb(171, 203, 244);
+}
